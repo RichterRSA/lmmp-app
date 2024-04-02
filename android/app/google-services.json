@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "125898388903",
+    "firebase_url": "https://lmmp-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lmmp-app",
+    "storage_bucket": "lmmp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125898388903:android:b65038c3456ec621613282",
+        "android_client_info": {
+          "package_name": "com.example.lmm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxI-7fNPmqptiLxlKaoAMY6cgfDTDZgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

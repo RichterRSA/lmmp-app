@@ -1,0 +1,8 @@
+{
+    "editor.wordWrapColumn": 160,
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "inherit",
+    "debug.console.wordWrap": true,
+    "dart.lineLength": 120,
+    "editor.rulers": []
+}
